@@ -22,8 +22,8 @@ If you have any feedback, please reach out to us at amazingprojectsmail@gmail.co
 <p align="center">
 	<a href="https://github.com/AmazingProjectsRepos/youtube-channel">
 		<img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=AmazingProjectsRepos&repo=youtube-channel&hide_border=true&theme=dark&show_icons=true" />
-	</a>
-	<a href="https://github.com/AmazingProjectsRepos/vagran">
+	</a>&nbsp;&nbsp;
+	<a href="https://github.com/AmazingProjectsRepos/vagrant">
 		<img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=AmazingProjectsRepos&repo=vagrant&hide_border=true&theme=dark&show_icons=true" />
 	</a>
 </p>
