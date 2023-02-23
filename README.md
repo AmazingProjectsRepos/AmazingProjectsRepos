@@ -1,5 +1,4 @@
 ![image info](./pics/repo-banner-1.jpg)<br/><br/>Welcome to this Github page. This is the companion place for the [Amazing Projects](https://www.youtube.com/@Amazing-Projects) Youtube channel. Here you can found all the code snippets and other information that is used in the video's published on the [Amazing Projects](https://www.youtube.com/@Amazing-Projects) channel.
-
 <br/>
 ### Feedback
 
@@ -15,10 +14,10 @@ If you have any feedback, please reach out to us at amazingprojectsmail@gmail.co
 ## Pinned Repositories
 
 <p align="center">
-	<a href="https://github.com/amankrx/Health">
+	<a href="https://github.com/AmazingProjectsRepos/youtube-channel">
 		<img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=AmazingProjectsRepos&repo=youtube-channel&hide_border=true&theme=dark&show_icons=true" />
 	</a>
-	<a href="https://github.com/amankrx/portfolio">
+	<a href="https://github.com/AmazingProjectsRepos/vagran">
 		<img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=AmazingProjectsRepos&repo=vagrant&hide_border=true&theme=dark&show_icons=true" />
 	</a>
 </p>
