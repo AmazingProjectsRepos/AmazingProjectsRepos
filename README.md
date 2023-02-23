@@ -1,11 +1,10 @@
-<p align="center">	<img src="pics/repo-banner-1.jpg"></p><br/><p align="center"><br>Welcome to this Github page. This is the companion place for the [Amazing Projects](https://www.youtube.com/@Amazing-Projects) Youtube channel. Here you can found all the code snippets and other information that is used in the video's published on the [Amazing Projects](https://www.youtube.com/@Amazing-Projects) channel.### Feedback
-If you have any feedback, please reach out to us at amazingprojectsmail@gmail.com
+![image info](./pics/repo-banner-1.jpg)<br/><br/>
+Welcome to this Github page. This is the companion place for the [Amazing Projects](https://www.youtube.com/@Amazing-Projects) Youtube channel. Here you can found all the code snippets and other information that is used in the video's published on the [Amazing Projects](https://www.youtube.com/@Amazing-Projects) channel.### FeedbackIf you have any feedback, please reach out to us at amazingprojectsmail@gmail.com
 
+<br/><br/>
 <img width="48%" src="https://github-readme-stats.vercel.app/api?username=AmazingProjectsRepos&count_private=true&theme=dark&show_icons=true" alt="AmazingProjectsRepos" /> &nbsp;&nbsp;&nbsp;
 <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=AmazingProjectsRepos&hide_border=true&theme=dark&show_icons=true" />
-
-</p>
-
+<br/><br/>
 [![MIT License](https://img.shields.io/badge/License-MIT-green.svg)](https://choosealicense.com/licenses/mit/)
 
 ## Pinned Repositories
@@ -18,3 +17,4 @@ If you have any feedback, please reach out to us at amazingprojectsmail@gmail.co
 		<img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=AmazingProjectsRepos&repo=vagrant&hide_border=true&theme=dark&show_icons=true" />
 	</a>
 </p>
+<br/><br/>
