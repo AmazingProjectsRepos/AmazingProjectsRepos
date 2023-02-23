@@ -1,5 +1,5 @@
-![image info](./pics/repo-banner-1.jpg)<br/><br/>Welcome to this Github page. This is the companion place for the [Amazing Projects](https://www.youtube.com/@Amazing-Projects) Youtube channel. Here you can found all the code snippets and other information that is used in the video's published on the [Amazing Projects](https://www.youtube.com/@Amazing-Projects) channel.
-<br/>
+![image info](./pics/repo-banner-2.jpg)<br/><br/>Welcome to this Github page. This is the companion place for the [Amazing Projects](https://www.youtube.com/@Amazing-Projects) Youtube channel. Here you can found all the code snippets and other information that is used in the video's published on the [Amazing Projects](https://www.youtube.com/@Amazing-Projects) channel.<br/>
+
 ### Feedback
 
 If you have any feedback, please reach out to us at amazingprojectsmail@gmail.com
