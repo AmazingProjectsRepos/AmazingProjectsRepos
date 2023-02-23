@@ -17,14 +17,3 @@ If you have any feedback, please reach out to us at amazingprojectsmail@gmail.co
 <br/><br/>
 [![MIT License](https://img.shields.io/badge/License-MIT-green.svg)](https://choosealicense.com/licenses/mit/)
 
-## Pinned Repositories
-
-<p align="center">
-	<a href="https://github.com/AmazingProjectsRepos/youtube-channel">
-		<img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=AmazingProjectsRepos&repo=youtube-channel&hide_border=true&theme=dark&show_icons=true" />
-	</a>
-	<a href="https://github.com/AmazingProjectsRepos/vagrant">
-		<img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=AmazingProjectsRepos&repo=vagrant&hide_border=true&theme=dark&show_icons=true" />
-	</a>
-</p>
-<br/><br/>
